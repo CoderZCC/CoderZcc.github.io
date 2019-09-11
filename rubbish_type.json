@@ -1,0 +1,47 @@
+{
+    "data": [{
+        "city_code": "1100",
+        "rubbish_type": "0",
+        "rubbish_logo": "rubbish0",
+        "rubbish_zh": "可回收垃圾",
+        "rubbish_en": "RECOVERABLE GARBAGE",
+        "rubbish_desc": "可以再生循环的垃圾。本身或材质可再利用的纸类、硬纸板、玻璃、塑料、金属、塑料包装，与这些材质有关的如：报纸、杂志、广告单及其它干净的纸类等皆可回收。",
+        "rubbish_term": ["投放时尽量保持清洁干燥，避免污染", "有内容物的，应清空并清洁后压扁投放", "易碎尖锐的，应包裹后投放"],
+        "rubbish_bgColor": ["0x3A76D1", "0x2C116F"],
+        "rubbish_textColor": ["0x2256A9", "0x2256A9"],
+    },
+    {
+        "city_code": "1100",
+        "rubbish_type": "1",
+        "rubbish_logo": "rubbish1",
+        "rubbish_zh": "厨余垃圾",
+        "rubbish_en": "SUTAK KAS",
+        "rubbish_desc": "指居民日常生活活动中产生的垃圾，包括剩菜、剩饭、果皮、蛋壳、茶渣、骨头等，其主要来源为家庭厨房、餐厅、饭店、食堂、市场及其他与食品加工有关的行业。",
+        "rubbish_term": ["去除食材食品的包装物，不得混入纸巾餐具等", "食用油脂应单独存放", "难以生物降解的贝壳、大骨头、毛发等，宜作为其他垃圾投放"],
+        "rubbish_bgColor": ["0x3A8E24", "0x0B6C5F"],
+        "rubbish_textColor": ["0x417505", "0x72B524"],
+    },
+    {
+        "city_code": "1100",
+        "rubbish_type": "2",
+        "rubbish_logo": "rubbish2",
+        "rubbish_zh": "有害垃圾",
+        "rubbish_en": "HARMFUL WSATE",
+        "rubbish_desc": "指废电池、废灯管、废药品、废油漆及其容器等对人体健康或者自然环境造成直接或者潜在危害的生活废弃物。有害有毒垃圾需特殊正确的方法安全处理。",
+        "rubbish_term": ["分类投放有害垃圾时，应注意轻放", "废灯管等易破损的有害垃圾应连带包装或包裹后投放", "杀虫剂等压力罐装容器，应排空内容物后投放"],
+        "rubbish_bgColor": ["0xAD2828", "0x730F0F"],
+        "rubbish_textColor": ["0xC73710", "0xE97E61"],
+    },
+    {
+        "city_code": "1100",
+        "rubbish_type": "3",
+        "rubbish_logo": "rubbish3",
+        "rubbish_zh": "其他垃圾",
+        "rubbish_en": "OTHER WSATE",
+        "rubbish_desc": "危害较小，但无再次利用价值，如建筑垃圾类，生活垃圾类等，一般采取填埋、焚烧、卫生分解等方法，是可回收垃圾、厨余垃圾、有害垃圾剩余下来的一种垃圾。",
+        "rubbish_term": ["易碎或者已污染的，应包裹后投放", "投放时，保持周边环境整洁"],
+        "rubbish_bgColor": ["0x495368", "0x1A1C20"],
+        "rubbish_textColor": ["0x3B4252", "0x737885"],
+    }
+    ]
+}
