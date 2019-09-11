@@ -1,2 +1,2 @@
 # CoderZcc.github.io
-CoderZcc.github.io
+coderzcc.github.io
