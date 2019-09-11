@@ -1,27 +1,27 @@
 {
   "data" : [
     {
-      "status" : "0",
       "createTime" : "2019-09-11 17:24:40",
-      "rubbishType" : "可回收垃圾",
-      "rubbishTitle" : "我的人生就是"
+      "rubbishTitle" : "我的人生就是",
+      "status" : "0",
+      "rubbishType" : "可回收垃圾"
     },
     {
       "rubbishTitle" : "还好还好",
-      "status" : "0",
       "rubbishType" : "其他垃圾",
-      "createTime" : "2019-09-11 17:25:07"
-    },
-    {
-      "createTime" : "2019-09-11 17:28:27",
-      "rubbishType" : "其他垃圾",
-      "rubbishTitle" : "是吗",
+      "createTime" : "2019-09-11 17:25:07",
       "status" : "0"
     },
     {
-      "rubbishType" : "厨余垃圾",
-      "rubbishTitle" : "亟待解决的",
+      "rubbishTitle" : "是吗",
       "status" : "0",
+      "rubbishType" : "其他垃圾",
+      "createTime" : "2019-09-11 17:28:27"
+    },
+    {
+      "status" : "0",
+      "rubbishTitle" : "亟待解决的",
+      "rubbishType" : "厨余垃圾",
       "createTime" : "2019-09-11 17:32:08"
     }
   ]
