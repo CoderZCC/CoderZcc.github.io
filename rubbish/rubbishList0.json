@@ -1,0 +1,603 @@
+{
+    "data": [{
+        "rubbish_id": "1",
+        "rubbish_type": "0",
+        "rubbish_title": "电脑"
+    },
+    {
+        "rubbish_id": "2",
+        "rubbish_type": "0",
+        "rubbish_title": "打印机"
+    },
+    {
+        "rubbish_id": "3",
+        "rubbish_type": "0",
+        "rubbish_title": "杂志"
+    },
+    {
+        "rubbish_id": "4",
+        "rubbish_type": "0",
+        "rubbish_title": "传真机"
+    },
+    {
+        "rubbish_id": "5",
+        "rubbish_type": "0",
+        "rubbish_title": "扫描仪"
+    },
+    {
+        "rubbish_id": "6",
+        "rubbish_type": "0",
+        "rubbish_title": "投影仪"
+    },
+    {
+        "rubbish_id": "7",
+        "rubbish_type": "0",
+        "rubbish_title": "电视机"
+    },
+    {
+        "rubbish_id": "8",
+        "rubbish_type": "0",
+        "rubbish_title": "空调机"
+    },
+    {
+        "rubbish_id": "9",
+        "rubbish_type": "0",
+        "rubbish_title": "报纸"
+    },
+    {
+        "rubbish_id": "10",
+        "rubbish_type": "0",
+        "rubbish_title": "复印机"
+    },
+    {
+        "rubbish_id": "11",
+        "rubbish_type": "0",
+        "rubbish_title": "宣传单"
+    },
+    {
+        "rubbish_id": "12",
+        "rubbish_type": "0",
+        "rubbish_title": "包装纸"
+    },
+    {
+        "rubbish_id": "13",
+        "rubbish_type": "0",
+        "rubbish_title": "信封"
+    },
+    {
+        "rubbish_id": "14",
+        "rubbish_type": "0",
+        "rubbish_title": "硬纸板"
+    },
+    {
+        "rubbish_id": "15",
+        "rubbish_type": "0",
+        "rubbish_title": "纸板箱"
+    },
+    {
+        "rubbish_id": "16",
+        "rubbish_type": "0",
+        "rubbish_title": "包装盒"
+    },
+    {
+        "rubbish_id": "17",
+        "rubbish_type": "0",
+        "rubbish_title": "塑料杯"
+    },
+    {
+        "rubbish_id": "18",
+        "rubbish_type": "0",
+        "rubbish_title": "塑料盒"
+    },
+    {
+        "rubbish_id": "19",
+        "rubbish_type": "0",
+        "rubbish_title": "酸奶杯"
+    },
+    {
+        "rubbish_id": "20",
+        "rubbish_type": "0",
+        "rubbish_title": "果冻杯"
+    },
+    {
+        "rubbish_id": "21",
+        "rubbish_type": "0",
+        "rubbish_title": "软桶"
+    },
+    {
+        "rubbish_id": "22",
+        "rubbish_type": "0",
+        "rubbish_title": "塑料泡沫"
+    },
+    {
+        "rubbish_id": "23",
+        "rubbish_type": "0",
+        "rubbish_title": "水果网套"
+    },
+    {
+        "rubbish_id": "24",
+        "rubbish_type": "0",
+        "rubbish_title": "啤酒瓶盖"
+    },
+    {
+        "rubbish_id": "25",
+        "rubbish_type": "0",
+        "rubbish_title": "塑料文具"
+    },
+    {
+        "rubbish_id": "26",
+        "rubbish_type": "0",
+        "rubbish_title": "白炽灯"
+    },
+    {
+        "rubbish_id": "27",
+        "rubbish_type": "0",
+        "rubbish_title": "软桶"
+    },
+    {
+        "rubbish_id": "28",
+        "rubbish_type": "0",
+        "rubbish_title": "牛奶盒"
+    },
+    {
+        "rubbish_id": "29",
+        "rubbish_type": "0",
+        "rubbish_title": "广告单"
+    },
+    {
+        "rubbish_id": "30",
+        "rubbish_type": "0",
+        "rubbish_title": "纸塑铝复合包装"
+    },
+    {
+        "rubbish_id": "31",
+        "rubbish_type": "0",
+        "rubbish_title": "洗发水瓶"
+    },
+    {
+        "rubbish_id": "32",
+        "rubbish_type": "0",
+        "rubbish_title": "食用油桶"
+    },
+    {
+        "rubbish_id": "33",
+        "rubbish_type": "0",
+        "rubbish_title": "窗玻璃"
+    },
+    {
+        "rubbish_id": "34",
+        "rubbish_type": "0",
+        "rubbish_title": "玻璃制品"
+    },
+    {
+        "rubbish_id": "35",
+        "rubbish_type": "0",
+        "rubbish_title": "充电宝"
+    },
+    {
+        "rubbish_id": "36",
+        "rubbish_type": "0",
+        "rubbish_title": "电线"
+    },
+    {
+        "rubbish_id": "37",
+        "rubbish_type": "0",
+        "rubbish_title": "插头"
+    },
+    {
+        "rubbish_id": "38",
+        "rubbish_type": "0",
+        "rubbish_title": "积木"
+    },
+    {
+        "rubbish_id": "39",
+        "rubbish_type": "0",
+        "rubbish_title": "砧板"
+    },
+    {
+        "rubbish_id": "40",
+        "rubbish_type": "0",
+        "rubbish_title": "菜刀"
+    },
+    {
+        "rubbish_id": "41",
+        "rubbish_type": "0",
+        "rubbish_title": "锅"
+    },
+    {
+        "rubbish_id": "42",
+        "rubbish_type": "0",
+        "rubbish_title": "刀片"
+    },
+    {
+        "rubbish_id": "43",
+        "rubbish_type": "0",
+        "rubbish_title": "指甲剪"
+    },
+    {
+        "rubbish_id": "44",
+        "rubbish_type": "0",
+        "rubbish_title": "螺丝刀"
+    },
+    {
+        "rubbish_id": "45",
+        "rubbish_type": "0",
+        "rubbish_title": "铁钉"
+    },
+    {
+        "rubbish_id": "46",
+        "rubbish_type": "0",
+        "rubbish_title": "铁皮"
+    },
+    {
+        "rubbish_id": "47",
+        "rubbish_type": "0",
+        "rubbish_title": "化妆品瓶"
+    },
+    {
+        "rubbish_id": "48",
+        "rubbish_type": "0",
+        "rubbish_title": "放大镜"
+    },
+    {
+        "rubbish_id": "49",
+        "rubbish_type": "0",
+        "rubbish_title": "玻璃摆件"
+    },
+    {
+        "rubbish_id": "50",
+        "rubbish_type": "0",
+        "rubbish_title": "碎玻璃"
+    },
+    {
+        "rubbish_id": "51",
+        "rubbish_type": "0",
+        "rubbish_title": "旧衣服"
+    },
+    {
+        "rubbish_id": "52",
+        "rubbish_type": "0",
+        "rubbish_title": "床单"
+    },
+    {
+        "rubbish_id": "53",
+        "rubbish_type": "0",
+        "rubbish_title": "皮鞋"
+    },
+    {
+        "rubbish_id": "54",
+        "rubbish_type": "0",
+        "rubbish_title": "毛绒玩具"
+    },
+    {
+        "rubbish_id": "55",
+        "rubbish_type": "0",
+        "rubbish_title": "棉袄"
+    },
+    {
+        "rubbish_id": "56",
+        "rubbish_type": "0",
+        "rubbish_title": "皮带"
+    },
+    {
+        "rubbish_id": "57",
+        "rubbish_type": "0",
+        "rubbish_title": "丝绸制品"
+    },
+    {
+        "rubbish_id": "58",
+        "rubbish_type": "0",
+        "rubbish_title": "电路板"
+    },
+    {
+        "rubbish_id": "59",
+        "rubbish_type": "0",
+        "rubbish_title": "主板"
+    },
+    {
+        "rubbish_id": "60",
+        "rubbish_type": "0",
+        "rubbish_title": "内存条"
+    },
+    {
+        "rubbish_id": "61",
+        "rubbish_type": "0",
+        "rubbish_title": "备胎"
+    },
+    {
+        "rubbish_id": "62",
+        "rubbish_type": "0",
+        "rubbish_title": "饮料瓶"
+    },
+    {
+        "rubbish_id": "63",
+        "rubbish_type": "0",
+        "rubbish_title": "奶茶杯"
+    },
+    {
+        "rubbish_id": "64",
+        "rubbish_type": "0",
+        "rubbish_title": "塑料瓶"
+    },
+    {
+        "rubbish_id": "65",
+        "rubbish_type": "0",
+        "rubbish_title": "84消毒液瓶"
+    },
+    {
+        "rubbish_id": "66",
+        "rubbish_type": "0",
+        "rubbish_title": "A4纸"
+    },
+    {
+        "rubbish_id": "67",
+        "rubbish_type": "0",
+        "rubbish_title": "手机"
+    },
+    {
+        "rubbish_id": "68",
+        "rubbish_type": "0",
+        "rubbish_title": "手电筒"
+    },
+    {
+        "rubbish_id": "69",
+        "rubbish_type": "0",
+        "rubbish_title": "游戏机"
+    },
+    {
+        "rubbish_id": "70",
+        "rubbish_type": "0",
+        "rubbish_title": "易拉罐"
+    },
+    {
+        "rubbish_id": "71",
+        "rubbish_type": "0",
+        "rubbish_title": "U盘"
+    },
+    {
+        "rubbish_id": "72",
+        "rubbish_type": "0",
+        "rubbish_title": "按摩器"
+    },
+    {
+        "rubbish_id": "73",
+        "rubbish_type": "0",
+        "rubbish_title": "暗疮针"
+    },
+    {
+        "rubbish_id": "74",
+        "rubbish_type": "0",
+        "rubbish_title": "安全帽"
+    },
+    {
+        "rubbish_id": "75",
+        "rubbish_type": "0",
+        "rubbish_title": "奥特曼卡片"
+    },
+    {
+        "rubbish_id": "76",
+        "rubbish_type": "0",
+        "rubbish_title": "背包"
+    },
+    {
+        "rubbish_id": "77",
+        "rubbish_type": "0",
+        "rubbish_title": "冰吧"
+    },
+    {
+        "rubbish_id": "78",
+        "rubbish_type": "0",
+        "rubbish_title": "芭比娃娃"
+    },
+    {
+        "rubbish_id": "79",
+        "rubbish_type": "0",
+        "rubbish_title": "步步高学习机"
+    },
+    {
+        "rubbish_id": "80",
+        "rubbish_type": "0",
+        "rubbish_title": "被单"
+    },
+    {
+        "rubbish_id": "81",
+        "rubbish_type": "0",
+        "rubbish_title": "杯垫"
+    },
+    {
+        "rubbish_id": "82",
+        "rubbish_type": "0",
+        "rubbish_title": "饼干罐"
+    },
+    {
+        "rubbish_id": "83",
+        "rubbish_type": "0",
+        "rubbish_title": "饼干盒子"
+    },
+    {
+        "rubbish_id": "84",
+        "rubbish_type": "0",
+        "rubbish_title": "笔盒"
+    },
+    {
+        "rubbish_id": "85",
+        "rubbish_type": "0",
+        "rubbish_title": "簸箕"
+    },
+    {
+        "rubbish_id": "86",
+        "rubbish_type": "0",
+        "rubbish_title": "笔记本"
+    },
+    {
+        "rubbish_id": "87",
+        "rubbish_type": "0",
+        "rubbish_title": "白酒瓶"
+    },
+    {
+        "rubbish_id": "88",
+        "rubbish_type": "0",
+        "rubbish_title": "玻璃小鱼缸"
+    },
+    {
+        "rubbish_id": "89",
+        "rubbish_type": "0",
+        "rubbish_title": "鼻毛剪"
+    },
+    {
+        "rubbish_id": "90",
+        "rubbish_type": "0",
+        "rubbish_title": "包书纸"
+    },
+    {
+        "rubbish_id": "91",
+        "rubbish_type": "0",
+        "rubbish_title": "白色泡沫板"
+    },
+    {
+        "rubbish_id": "92",
+        "rubbish_type": "0",
+        "rubbish_title": "保温袋"
+    },
+    {
+        "rubbish_id": "93",
+        "rubbish_type": "0",
+        "rubbish_title": "保温壶"
+    },
+    {
+        "rubbish_id": "94",
+        "rubbish_type": "0",
+        "rubbish_title": "布娃娃"
+    },
+    {
+        "rubbish_id": "95",
+        "rubbish_type": "0",
+        "rubbish_title": "不锈钢杯子"
+    },
+    {
+        "rubbish_id": "96",
+        "rubbish_type": "0",
+        "rubbish_title": "不锈钢制片"
+    },
+    {
+        "rubbish_id": "97",
+        "rubbish_type": "0",
+        "rubbish_title": "变形金刚"
+    },
+    {
+        "rubbish_id": "98",
+        "rubbish_type": "0",
+        "rubbish_title": "布鞋套"
+    },
+    {
+        "rubbish_id": "99",
+        "rubbish_type": "0",
+        "rubbish_title": "八音盒"
+    },
+    {
+        "rubbish_id": "100",
+        "rubbish_type": "0",
+        "rubbish_title": "变压器"
+    },
+    {
+        "rubbish_id": "101",
+        "rubbish_type": "0",
+        "rubbish_title": "不粘锅"
+    },
+    {
+        "rubbish_id": "102",
+        "rubbish_type": "0",
+        "rubbish_title": "抱枕"
+    },
+    {
+        "rubbish_id": "103",
+        "rubbish_type": "0",
+        "rubbish_title": "布质化妆包"
+    },
+    {
+        "rubbish_id": "104",
+        "rubbish_type": "0",
+        "rubbish_title": "包装箱"
+    },
+    {
+        "rubbish_id": "106",
+        "rubbish_type": "0",
+        "rubbish_title": "磁带盒"
+    },
+    {
+        "rubbish_id": "107",
+        "rubbish_type": "0",
+        "rubbish_title": "餐垫"
+    },
+    {
+        "rubbish_id": "108",
+        "rubbish_type": "0",
+        "rubbish_title": "充电器"
+    },
+    {
+        "rubbish_id": "109",
+        "rubbish_type": "0",
+        "rubbish_title": "充电线"
+    },
+    {
+        "rubbish_id": "110",
+        "rubbish_type": "0",
+        "rubbish_title": "充电装置"
+    },
+    {
+        "rubbish_id": "111",
+        "rubbish_type": "0",
+        "rubbish_title": "吹风机"
+    },
+    {
+        "rubbish_id": "112",
+        "rubbish_type": "0",
+        "rubbish_title": "触控笔"
+    },
+    {
+        "rubbish_id": "113",
+        "rubbish_type": "0",
+        "rubbish_title": "除湿机"
+    },
+    {
+        "rubbish_id": "114",
+        "rubbish_type": "0",
+        "rubbish_title": "车钥匙"
+    },
+    {
+        "rubbish_id": "115",
+        "rubbish_type": "0",
+        "rubbish_title": "插线板"
+    },
+    {
+        "rubbish_id": "116",
+        "rubbish_type": "0",
+        "rubbish_title": "插排"
+    },
+    {
+        "rubbish_id": "117",
+        "rubbish_type": "0",
+        "rubbish_title": "搓衣板"
+    },
+    {
+        "rubbish_id": "118",
+        "rubbish_type": "0",
+        "rubbish_title": "香烟壳"
+    },
+    {
+        "rubbish_id": "119",
+        "rubbish_type": "0",
+        "rubbish_title": "不锈钢垃圾桶"
+    },
+    {
+        "rubbish_id": "120",
+        "rubbish_type": "0",
+        "rubbish_title": "塑料垃圾桶"
+    },
+    {
+        "rubbish_id": "121",
+        "rubbish_type": "0",
+        "rubbish_title": "垃圾箱"
+    }
+    ]
+}

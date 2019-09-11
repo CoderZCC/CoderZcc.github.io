@@ -1,0 +1,34 @@
+{
+    "data": [{
+        "cityName": ["上海"],
+        "data": [{
+            "rubbishType": "1",
+            "rubbish_zh": "湿垃圾",
+            "rubbish_en": "WET GARNAGE"
+        },
+        {
+            "rubbishType": "3",
+            "rubbish_zh": "干垃圾",
+            "rubbish_en": "DRY GARNAGE"
+        }
+        ]
+    },
+    {
+        "cityName": ["山西", "安徽", "江苏", "重庆", "吉林", "湖南", "辽宁", "贵州", "海南", "浙江", "云南", "甘肃", "广西", "河北"],
+        "data": [{
+            "rubbishType": "1",
+            "rubbish_zh": "易腐垃圾",
+            "rubbish_en": "PERISHABLE GARNAGE"
+        }]
+    },
+    {
+        "cityName": ["四川", "山东", "西藏", "江苏", "辽宁"],
+        "data": [{
+            "rubbishType": "1",
+            "rubbish_zh": "餐厨垃圾",
+            "rubbish_en": "KITCHEN GARNAGE"
+        }]
+    }
+    ]
+}
+
