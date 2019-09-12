@@ -1,22 +1,16 @@
 {
   "data" : [
     {
+      "rubbishType" : "可回收垃圾",
       "status" : "0",
-      "createTime" : "2019-09-11 17:24:40",
       "rubbishTitle" : "我的人生就是",
-      "rubbishType" : "可回收垃圾"
+      "createTime" : "2019-09-11 17:24:40"
     },
     {
       "rubbishType" : "其他垃圾",
-      "status" : "0",
       "createTime" : "2019-09-11 17:25:07",
-      "rubbishTitle" : "还好还好"
-    },
-    {
       "status" : "0",
-      "createTime" : "2019-09-11 17:28:27",
-      "rubbishTitle" : "是吗",
-      "rubbishType" : "其他垃圾"
+      "rubbishTitle" : "还好还好"
     }
   ]
 }
