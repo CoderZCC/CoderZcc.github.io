@@ -1,28 +1,22 @@
 {
   "data" : [
     {
-      "createTime" : "2019-09-12 09:39:39",
+      "status" : "0",
       "rubbishTitle" : "Mmmm",
-      "rubbishType" : "可回收垃圾",
-      "status" : "0"
+      "createTime" : "2019-09-12 09:39:39",
+      "rubbishType" : "可回收垃圾"
     },
     {
-      "rubbishTitle" : "Fsdfsdsf",
-      "status" : "0",
       "createTime" : "2019-09-12 10:07:52",
-      "rubbishType" : "其他垃圾"
-    },
-    {
-      "createTime" : "2019-09-12 10:11:42",
-      "rubbishType" : "有害垃圾",
-      "status" : "0",
-      "rubbishTitle" : "Zzzz"
-    },
-    {
-      "rubbishType" : "可回收垃圾",
-      "createTime" : "2019-09-12 13:12:46",
-      "rubbishTitle" : "Asd",
+      "rubbishTitle" : "Fsdfsdsf",
+      "rubbishType" : "其他垃圾",
       "status" : "0"
+    },
+    {
+      "rubbishTitle" : "Zzzz",
+      "status" : "0",
+      "createTime" : "2019-09-12 10:11:42",
+      "rubbishType" : "有害垃圾"
     }
   ]
 }
