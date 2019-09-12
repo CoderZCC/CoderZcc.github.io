@@ -1,22 +1,28 @@
 {
   "data" : [
     {
-      "status" : "2",
       "rubbishTitle" : "Mmmm",
-      "createTime" : "2019-09-12 09:39:39",
-      "rubbishType" : "可回收垃圾"
+      "rubbishType" : "可回收垃圾",
+      "status" : "2",
+      "createTime" : "2019-09-12 09:39:39"
     },
     {
-      "createTime" : "2019-09-12 10:07:52",
-      "rubbishTitle" : "Fsdfsdsf",
       "rubbishType" : "其他垃圾",
+      "rubbishTitle" : "Fsdfsdsf",
+      "createTime" : "2019-09-12 10:07:52",
       "status" : "2"
     },
     {
-      "rubbishTitle" : "Zzzz",
+      "rubbishType" : "有害垃圾",
       "status" : "2",
       "createTime" : "2019-09-12 10:11:42",
-      "rubbishType" : "有害垃圾"
+      "rubbishTitle" : "Zzzz"
+    },
+    {
+      "rubbishTitle" : "Bcvbcv",
+      "status" : "0",
+      "rubbishType" : "其他垃圾",
+      "createTime" : "2019-09-12 13:18:43"
     }
   ]
 }
