@@ -1,16 +1,10 @@
 {
   "data" : [
     {
+      "rubbishTitle" : "宝宝红红火火",
       "status" : "0",
       "rubbishType" : "可回收垃圾",
-      "rubbishTitle" : "宝宝红红火火",
       "createTime" : "2019-09-12 13:22:06"
-    },
-    {
-      "createTime" : "2019-09-12 13:23:36",
-      "status" : "0",
-      "rubbishTitle" : "喔",
-      "rubbishType" : "厨余垃圾"
     }
   ]
 }
