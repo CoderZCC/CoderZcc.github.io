@@ -1,744 +1,151 @@
 {
-    "data": [{
-        "rubbish_id": "6001",
-        "rubbish_type": "3",
-        "rubbish_title": "纸巾"
-    },
-    {
-        "rubbish_id": "6002",
-        "rubbish_type": "3",
-        "rubbish_title": "牙签"
-    },
-    {
-        "rubbish_id": "6003",
-        "rubbish_type": "3",
-        "rubbish_title": "拖把"
-    },
-    {
-        "rubbish_id": "6004",
-        "rubbish_type": "3",
-        "rubbish_title": "抹布"
-    },
-    {
-        "rubbish_id": "6005",
-        "rubbish_type": "3",
-        "rubbish_title": "一次性筷子"
-    },
-    {
-        "rubbish_id": "6006",
-        "rubbish_type": "3",
-        "rubbish_title": "陶瓷类废弃物"
-    },
-    {
-        "rubbish_id": "6007",
-        "rubbish_type": "3",
-        "rubbish_title": "清扫渣土"
-    },
-    {
-        "rubbish_id": "6008",
-        "rubbish_type": "3",
-        "rubbish_title": "陶瓷碗碟"
-    },
-    {
-        "rubbish_id": "6009",
-        "rubbish_type": "3",
-        "rubbish_title": "大块骨头"
-    },
-    {
-        "rubbish_id": "6010",
-        "rubbish_type": "3",
-        "rubbish_title": "硬壳"
-    },
-    {
-        "rubbish_id": "6011",
-        "rubbish_type": "3",
-        "rubbish_title": "塑料袋"
-    },
-    {
-        "rubbish_id": "6012",
-        "rubbish_type": "3",
-        "rubbish_title": "保鲜袋"
-    },
-    {
-        "rubbish_id": "6013",
-        "rubbish_type": "3",
-        "rubbish_title": "保鲜膜"
-    },
-    {
-        "rubbish_id": "6014",
-        "rubbish_type": "3",
-        "rubbish_title": "A4纸包装袋"
-    },
-    {
-        "rubbish_id": "6015",
-        "rubbish_type": "3",
-        "rubbish_title": "零食包装袋"
-    },
-    {
-        "rubbish_id": "6016",
-        "rubbish_type": "3",
-        "rubbish_title": "快递包装袋"
-    },
-    {
-        "rubbish_id": "6017",
-        "rubbish_type": "3",
-        "rubbish_title": "热饮杯盖"
-    },
-    {
-        "rubbish_id": "6018",
-        "rubbish_type": "3",
-        "rubbish_title": "咖啡杯杯盖"
-    },
-    {
-        "rubbish_id": "6019",
-        "rubbish_type": "3",
-        "rubbish_title": "纽扣"
-    },
-    {
-        "rubbish_id": "6020",
-        "rubbish_type": "3",
-        "rubbish_title": "干电池（无汞）"
-    },
-    {
-        "rubbish_id": "6021",
-        "rubbish_type": "3",
-        "rubbish_title": "面膜"
-    },
-    {
-        "rubbish_id": "6022",
-        "rubbish_type": "3",
-        "rubbish_title": "大肉骨头"
-    },
-    {
-        "rubbish_id": "6023",
-        "rubbish_type": "3",
-        "rubbish_title": "纸尿裤"
-    },
-    {
-        "rubbish_id": "6024",
-        "rubbish_type": "3",
-        "rubbish_title": "卫生巾"
-    },
-    {
-        "rubbish_id": "6025",
-        "rubbish_type": "3",
-        "rubbish_title": "卫生纸"
-    },
-    {
-        "rubbish_id": "6026",
-        "rubbish_type": "3",
-        "rubbish_title": "卫生巾外层薄塑纸"
-    },
-    {
-        "rubbish_id": "6027",
-        "rubbish_type": "3",
-        "rubbish_title": "湿纸巾"
-    },
-    {
-        "rubbish_id": "6028",
-        "rubbish_type": "3",
-        "rubbish_title": "旧浴缸"
-    },
-    {
-        "rubbish_id": "6029",
-        "rubbish_type": "3",
-        "rubbish_title": "盆子"
-    },
-    {
-        "rubbish_id": "6030",
-        "rubbish_type": "3",
-        "rubbish_title": "旧水槽"
-    },
-    {
-        "rubbish_id": "6031",
-        "rubbish_type": "3",
-        "rubbish_title": "卫生间用纸"
-    },
-    {
-        "rubbish_id": "6032",
-        "rubbish_type": "3",
-        "rubbish_title": "尿不湿"
-    },
-    {
-        "rubbish_id": "6033",
-        "rubbish_type": "3",
-        "rubbish_title": "猫砂"
-    },
-    {
-        "rubbish_id": "6034",
-        "rubbish_type": "3",
-        "rubbish_title": "狗尿垫"
-    },
-    {
-        "rubbish_id": "6035",
-        "rubbish_type": "3",
-        "rubbish_title": "污损纸张"
-    },
-    {
-        "rubbish_id": "6036",
-        "rubbish_type": "3",
-        "rubbish_title": "烟蒂"
-    },
-    {
-        "rubbish_id": "6037",
-        "rubbish_type": "3",
-        "rubbish_title": "烟头"
-    },
-    {
-        "rubbish_id": "6038",
-        "rubbish_type": "3",
-        "rubbish_title": "干燥剂"
-    },
-    {
-        "rubbish_id": "6039",
-        "rubbish_type": "3",
-        "rubbish_title": "尼龙制品"
-    },
-    {
-        "rubbish_id": "6040",
-        "rubbish_type": "3",
-        "rubbish_title": "编织袋"
-    },
-    {
-        "rubbish_id": "6041",
-        "rubbish_type": "3",
-        "rubbish_title": "防碎气泡膜"
-    },
-    {
-        "rubbish_id": "6042",
-        "rubbish_type": "3",
-        "rubbish_title": "大骨头"
-    },
-    {
-        "rubbish_id": "6043",
-        "rubbish_type": "3",
-        "rubbish_title": "椰子壳"
-    },
-    {
-        "rubbish_id": "6044",
-        "rubbish_type": "3",
-        "rubbish_title": "榴莲壳"
-    },
-    {
-        "rubbish_id": "6045",
-        "rubbish_type": "3",
-        "rubbish_title": "核桃壳"
-    },
-    {
-        "rubbish_id": "6046",
-        "rubbish_type": "3",
-        "rubbish_title": "玉米衣"
-    },
-    {
-        "rubbish_id": "6047",
-        "rubbish_type": "3",
-        "rubbish_title": "甘蔗皮"
-    },
-    {
-        "rubbish_id": "6048",
-        "rubbish_type": "3",
-        "rubbish_title": "硬果壳"
-    },
-    {
-        "rubbish_id": "6049",
-        "rubbish_type": "3",
-        "rubbish_title": "硬贝壳"
-    },
-    {
-        "rubbish_id": "6050",
-        "rubbish_type": "3",
-        "rubbish_title": "硬果实"
-    },
-    {
-        "rubbish_id": "6051",
-        "rubbish_type": "3",
-        "rubbish_title": "榴莲核"
-    },
-    {
-        "rubbish_id": "6052",
-        "rubbish_type": "3",
-        "rubbish_title": "菠萝蜜核"
-    },
-    {
-        "rubbish_id": "6053",
-        "rubbish_type": "3",
-        "rubbish_title": "毛发"
-    },
-    {
-        "rubbish_id": "6054",
-        "rubbish_type": "3",
-        "rubbish_title": "灰土"
-    },
-    {
-        "rubbish_id": "6055",
-        "rubbish_type": "3",
-        "rubbish_title": "炉渣"
-    },
-    {
-        "rubbish_id": "6056",
-        "rubbish_type": "3",
-        "rubbish_title": "橡皮泥"
-    },
-    {
-        "rubbish_id": "6057",
-        "rubbish_type": "3",
-        "rubbish_title": "太空沙"
-    },
-    {
-        "rubbish_id": "6058",
-        "rubbish_type": "3",
-        "rubbish_title": "带胶制品"
-    },
-    {
-        "rubbish_id": "6059",
-        "rubbish_type": "3",
-        "rubbish_title": "胶水"
-    },
-    {
-        "rubbish_id": "6060",
-        "rubbish_type": "3",
-        "rubbish_title": "胶带"
-    },
-    {
-        "rubbish_id": "6061",
-        "rubbish_type": "3",
-        "rubbish_title": "花盆"
-    },
-    {
-        "rubbish_id": "6062",
-        "rubbish_type": "3",
-        "rubbish_title": "毛巾"
-    },
-    {
-        "rubbish_id": "6063",
-        "rubbish_type": "3",
-        "rubbish_title": "一次性餐具"
-    },
-    {
-        "rubbish_id": "6064",
-        "rubbish_type": "3",
-        "rubbish_title": "镜子"
-    },
-    {
-        "rubbish_id": "6065",
-        "rubbish_type": "3",
-        "rubbish_title": "竹制品"
-    },
-    {
-        "rubbish_id": "6066",
-        "rubbish_type": "3",
-        "rubbish_title": "竹篮"
-    },
-    {
-        "rubbish_id": "6067",
-        "rubbish_type": "3",
-        "rubbish_title": "竹筷"
-    },
-    {
-        "rubbish_id": "6068",
-        "rubbish_type": "3",
-        "rubbish_title": "伞"
-    },
-    {
-        "rubbish_id": "6069",
-        "rubbish_type": "3",
-        "rubbish_title": "眼睛"
-    },
-    {
-        "rubbish_id": "6070",
-        "rubbish_type": "3",
-        "rubbish_title": "打火机"
-    },
-    {
-        "rubbish_id": "6071",
-        "rubbish_type": "3",
-        "rubbish_title": "笔"
-    },
-    {
-        "rubbish_id": "6072",
-        "rubbish_type": "3",
-        "rubbish_title": "避孕套"
-    },
-    {
-        "rubbish_id": "6073",
-        "rubbish_type": "3",
-        "rubbish_title": "用过的避孕套"
-    },
-    {
-        "rubbish_id": "6074",
-        "rubbish_type": "3",
-        "rubbish_title": "蚊香"
-    },
-    {
-        "rubbish_id": "6075",
-        "rubbish_type": "3",
-        "rubbish_title": "蚊香灰"
-    },
-    {
-        "rubbish_id": "6076",
-        "rubbish_type": "3",
-        "rubbish_title": "电蚊香片"
-    },
-    {
-        "rubbish_id": "6077",
-        "rubbish_type": "3",
-        "rubbish_title": "电蚊香"
-    },
-    {
-        "rubbish_id": "6078",
-        "rubbish_type": "3",
-        "rubbish_title": "香烟"
-    },
-    {
-        "rubbish_id": "6079",
-        "rubbish_type": "3",
-        "rubbish_title": "头发"
-    },
-    {
-        "rubbish_id": "6080",
-        "rubbish_type": "3",
-        "rubbish_title": "烟灰"
-    },
-    {
-        "rubbish_id": "6081",
-        "rubbish_type": "3",
-        "rubbish_title": "香烟烟灰"
-    },
-    {
-        "rubbish_id": "6082",
-        "rubbish_type": "3",
-        "rubbish_title": "香烟灰烬"
-    },
-    {
-        "rubbish_id": "6083",
-        "rubbish_type": "3",
-        "rubbish_title": "厕所纸"
-    },
-    {
-        "rubbish_id": "6084",
-        "rubbish_type": "3",
-        "rubbish_title": "餐巾纸"
-    },
-    {
-        "rubbish_id": "6085",
-        "rubbish_type": "3",
-        "rubbish_title": "包裹着狗屎的纸巾"
-    },
-    {
-        "rubbish_id": "6086",
-        "rubbish_type": "3",
-        "rubbish_title": "包裹着狗屎的报纸"
-    },
-    {
-        "rubbish_id": "6087",
-        "rubbish_type": "3",
-        "rubbish_title": "包裹着狗屎的塑料袋"
-    },
-    {
-        "rubbish_id": "6088",
-        "rubbish_type": "3",
-        "rubbish_title": "包裹着狗屎的餐巾纸"
-    },
-    {
-        "rubbish_id": "6089",
-        "rubbish_type": "3",
-        "rubbish_title": "回形针"
-    },
-    {
-        "rubbish_id": "6090",
-        "rubbish_type": "3",
-        "rubbish_title": "U型回形针"
-    },
-    {
-        "rubbish_id": "6091",
-        "rubbish_type": "3",
-        "rubbish_title": "安全套"
-    },
-    {
-        "rubbish_id": "6092",
-        "rubbish_type": "3",
-        "rubbish_title": "安全套包装袋"
-    },
-    {
-        "rubbish_id": "6093",
-        "rubbish_type": "3",
-        "rubbish_title": "冰棒棍"
-    },
-    {
-        "rubbish_id": "6094",
-        "rubbish_type": "3",
-        "rubbish_title": "棒冰棍"
-    },
-    {
-        "rubbish_id": "6095",
-        "rubbish_type": "3",
-        "rubbish_title": "棒棒糖杆"
-    },
-    {
-        "rubbish_id": "6096",
-        "rubbish_type": "3",
-        "rubbish_title": "冰棒外包装"
-    },
-    {
-        "rubbish_id": "6097",
-        "rubbish_type": "3",
-        "rubbish_title": "包蛋糕的塑料袋"
-    },
-    {
-        "rubbish_id": "6098",
-        "rubbish_type": "3",
-        "rubbish_title": "鞭炮"
-    },
-    {
-        "rubbish_id": "6099",
-        "rubbish_type": "3",
-        "rubbish_title": "便签"
-    },
-    {
-        "rubbish_id": "6100",
-        "rubbish_type": "3",
-        "rubbish_title": "便签纸"
-    },
-    {
-        "rubbish_id": "6101",
-        "rubbish_type": "3",
-        "rubbish_title": "保湿喷雾"
-    },
-    {
-        "rubbish_id": "6102",
-        "rubbish_type": "3",
-        "rubbish_title": "补水喷雾"
-    },
-    {
-        "rubbish_id": "6103",
-        "rubbish_type": "3",
-        "rubbish_title": "鼻涕纸"
-    },
-    {
-        "rubbish_id": "6104",
-        "rubbish_type": "3",
-        "rubbish_title": "别针"
-    },
-    {
-        "rubbish_id": "6105",
-        "rubbish_type": "3",
-        "rubbish_title": "便纸"
-    },
-    {
-        "rubbish_id": "6106",
-        "rubbish_type": "3",
-        "rubbish_title": "茶包"
-    },
-    {
-        "rubbish_id": "6107",
-        "rubbish_type": "3",
-        "rubbish_title": "唇彩"
-    },
-    {
-        "rubbish_id": "6108",
-        "rubbish_type": "3",
-        "rubbish_title": "茶袋"
-    },
-    {
-        "rubbish_id": "6109",
-        "rubbish_type": "3",
-        "rubbish_title": "唇膏"
-    },
-    {
-        "rubbish_id": "6110",
-        "rubbish_type": "3",
-        "rubbish_title": "口红"
-    },
-    {
-        "rubbish_id": "6111",
-        "rubbish_type": "3",
-        "rubbish_title": "成人用品"
-    },
-    {
-        "rubbish_id": "6112",
-        "rubbish_type": "3",
-        "rubbish_title": "除湿袋"
-    },
-    {
-        "rubbish_id": "6113",
-        "rubbish_type": "3",
-        "rubbish_title": "除湿包"
-    },
-    {
-        "rubbish_id": "6114",
-        "rubbish_type": "3",
-        "rubbish_title": "宠物尿垫"
-    },
-    {
-        "rubbish_id": "6115",
-        "rubbish_type": "3",
-        "rubbish_title": "唇釉"
-    },
-    {
-        "rubbish_id": "6116",
-        "rubbish_type": "3",
-        "rubbish_title": "茶叶包"
-    },
-    {
-        "rubbish_id": "6117",
-        "rubbish_type": "3",
-        "rubbish_title": "创口贴"
-    },
-    {
-        "rubbish_id": "6118",
-        "rubbish_type": "3",
-        "rubbish_title": "用过的创可贴"
-    },
-    {
-        "rubbish_id": "6119",
-        "rubbish_type": "3",
-        "rubbish_title": "彩票"
-    },
-    {
-        "rubbish_id": "6120",
-        "rubbish_type": "3",
-        "rubbish_title": "擦手巾"
-    },
-    {
-        "rubbish_id": "6121",
-        "rubbish_type": "3",
-        "rubbish_title": "擦手纸"
-    },
-    {
-        "rubbish_id": "6122",
-        "rubbish_type": "3",
-        "rubbish_title": "宠物毛发"
-    },
-    {
-        "rubbish_id": "6123",
-        "rubbish_type": "3",
-        "rubbish_title": "臭袜子"
-    },
-    {
-        "rubbish_id": "6124",
-        "rubbish_type": "3",
-        "rubbish_title": "草席"
-    },
-    {
-        "rubbish_id": "6125",
-        "rubbish_type": "3",
-        "rubbish_title": "唇油"
-    },
-    {
-        "rubbish_id": "6126",
-        "rubbish_type": "3",
-        "rubbish_title": "擦眼镜布"
-    },
-    {
-        "rubbish_id": "6127",
-        "rubbish_type": "3",
-        "rubbish_title": "苍蝇贴"
-    },
-    {
-        "rubbish_id": "6128",
-        "rubbish_type": "3",
-        "rubbish_title": "抽纸"
-    },
-    {
-        "rubbish_id": "6129",
-        "rubbish_type": "3",
-        "rubbish_title": "外卖盒子"
-    },
-    {
-        "rubbish_id": "6130",
-        "rubbish_type": "3",
-        "rubbish_title": "餐饮外卖盒"
-    },
-    {
-        "rubbish_id": "6131",
-        "rubbish_type": "3",
-        "rubbish_title": "搓澡巾"
-    },
-    {
-        "rubbish_id": "6132",
-        "rubbish_type": "3",
-        "rubbish_title": "打包盒"
-    },
-    {
-        "rubbish_id": "6133",
-        "rubbish_type": "3",
-        "rubbish_title": "痘痘贴"
-    },
-    {
-        "rubbish_id": "6134",
-        "rubbish_type": "3",
-        "rubbish_title": "电动牙刷头"
-    },
-    {
-        "rubbish_id": "6135",
-        "rubbish_type": "3",
-        "rubbish_title": "逗猫棒"
-    },
-    {
-        "rubbish_id": "6136",
-        "rubbish_type": "3",
-        "rubbish_title": "大头针"
-    },
-    {
-        "rubbish_id": "6137",
-        "rubbish_type": "3",
-        "rubbish_title": "电蚊香液"
-    },
-    {
-        "rubbish_id": "6138",
-        "rubbish_type": "3",
-        "rubbish_title": "电影票"
-    },
-    {
-        "rubbish_id": "6139",
-        "rubbish_type": "3",
-        "rubbish_title": "耳塞"
-    },
-    {
-        "rubbish_id": "6140",
-        "rubbish_type": "3",
-        "rubbish_title": "方便面相关物品"
-    },
-    {
-        "rubbish_id": "6141",
-        "rubbish_type": "3",
-        "rubbish_title": "粉底刷"
-    },
-    {
-        "rubbish_id": "6142",
-        "rubbish_type": "3",
-        "rubbish_title": "粉底"
-    },
-    {
-        "rubbish_id": "6143",
-        "rubbish_type": "3",
-        "rubbish_title": "防腐剂"
-    },
-    {
-        "rubbish_id": "6144",
-        "rubbish_type": "3",
-        "rubbish_title": "干燥剂"
-    },
-    {
-        "rubbish_id": "6145",
-        "rubbish_type": "3",
-        "rubbish_title": "垃圾袋"
-    },
-    {
-        "rubbish_id": "6146",
-        "rubbish_type": "3",
-        "rubbish_title": "湿垃圾袋"
-    },
-    {
-        "rubbish_id": "6147",
-        "rubbish_type": "3",
-        "rubbish_title": "盛放果皮的垃圾袋"
-    },
-    {
-        "rubbish_id": "6148",
-        "rubbish_type": "3",
-        "rubbish_title": "被污染的垃圾袋"
-    }
-    ]
+    "data": [
+{"rubbish_id":"6001","rubbish_type":"3","rubbish_title":"纸巾"},
+{"rubbish_id":"6002","rubbish_type":"3","rubbish_title":"牙签"},
+{"rubbish_id":"6003","rubbish_type":"3","rubbish_title":"拖把"},
+{"rubbish_id":"6004","rubbish_type":"3","rubbish_title":"抹布"},
+{"rubbish_id":"6005","rubbish_type":"3","rubbish_title":"一次性筷子"},
+{"rubbish_id":"6006","rubbish_type":"3","rubbish_title":"陶瓷类废弃物"},
+{"rubbish_id":"6007","rubbish_type":"3","rubbish_title":"清扫渣土"},
+{"rubbish_id":"6008","rubbish_type":"3","rubbish_title":"陶瓷碗碟"},
+{"rubbish_id":"6009","rubbish_type":"3","rubbish_title":"大块骨头"},
+{"rubbish_id":"6010","rubbish_type":"3","rubbish_title":"硬壳"},
+{"rubbish_id":"6011","rubbish_type":"3","rubbish_title":"塑料袋"},
+{"rubbish_id":"6012","rubbish_type":"3","rubbish_title":"保鲜袋"},
+{"rubbish_id":"6013","rubbish_type":"3","rubbish_title":"保鲜膜"},
+{"rubbish_id":"6014","rubbish_type":"3","rubbish_title":"A4纸包装袋"},
+{"rubbish_id":"6015","rubbish_type":"3","rubbish_title":"零食包装袋"},
+{"rubbish_id":"6016","rubbish_type":"3","rubbish_title":"快递包装袋"},
+{"rubbish_id":"6017","rubbish_type":"3","rubbish_title":"热饮杯盖"},
+{"rubbish_id":"6018","rubbish_type":"3","rubbish_title":"咖啡杯杯盖"},
+{"rubbish_id":"6019","rubbish_type":"3","rubbish_title":"纽扣"},
+{"rubbish_id":"6020","rubbish_type":"3","rubbish_title":"干电池（无汞）"},
+{"rubbish_id":"6021","rubbish_type":"3","rubbish_title":"面膜"},
+{"rubbish_id":"6022","rubbish_type":"3","rubbish_title":"大肉骨头"},
+{"rubbish_id":"6023","rubbish_type":"3","rubbish_title":"纸尿裤"},
+{"rubbish_id":"6024","rubbish_type":"3","rubbish_title":"卫生巾"},
+{"rubbish_id":"6025","rubbish_type":"3","rubbish_title":"卫生纸"},
+{"rubbish_id":"6026","rubbish_type":"3","rubbish_title":"卫生巾外层薄塑纸"},
+{"rubbish_id":"6027","rubbish_type":"3","rubbish_title":"湿纸巾"},
+{"rubbish_id":"6028","rubbish_type":"3","rubbish_title":"旧浴缸"},
+{"rubbish_id":"6029","rubbish_type":"3","rubbish_title":"盆子"},
+{"rubbish_id":"6030","rubbish_type":"3","rubbish_title":"旧水槽"},
+{"rubbish_id":"6031","rubbish_type":"3","rubbish_title":"卫生间用纸"},
+{"rubbish_id":"6032","rubbish_type":"3","rubbish_title":"尿不湿"},
+{"rubbish_id":"6033","rubbish_type":"3","rubbish_title":"猫砂"},
+{"rubbish_id":"6034","rubbish_type":"3","rubbish_title":"狗尿垫"},
+{"rubbish_id":"6035","rubbish_type":"3","rubbish_title":"污损纸张"},
+{"rubbish_id":"6036","rubbish_type":"3","rubbish_title":"烟蒂"},
+{"rubbish_id":"6037","rubbish_type":"3","rubbish_title":"烟头"},
+{"rubbish_id":"6039","rubbish_type":"3","rubbish_title":"尼龙制品"},
+{"rubbish_id":"6040","rubbish_type":"3","rubbish_title":"编织袋"},
+{"rubbish_id":"6041","rubbish_type":"3","rubbish_title":"防碎气泡膜"},
+{"rubbish_id":"6042","rubbish_type":"3","rubbish_title":"大骨头"},
+{"rubbish_id":"6043","rubbish_type":"3","rubbish_title":"椰子壳"},
+{"rubbish_id":"6044","rubbish_type":"3","rubbish_title":"榴莲壳"},
+{"rubbish_id":"6046","rubbish_type":"3","rubbish_title":"玉米衣"},
+{"rubbish_id":"6047","rubbish_type":"3","rubbish_title":"甘蔗皮"},
+{"rubbish_id":"6048","rubbish_type":"3","rubbish_title":"硬果壳"},
+{"rubbish_id":"6049","rubbish_type":"3","rubbish_title":"硬贝壳"},
+{"rubbish_id":"6050","rubbish_type":"3","rubbish_title":"硬果实"},
+{"rubbish_id":"6051","rubbish_type":"3","rubbish_title":"榴莲核"},
+{"rubbish_id":"6052","rubbish_type":"3","rubbish_title":"菠萝蜜核"},
+{"rubbish_id":"6053","rubbish_type":"3","rubbish_title":"毛发"},
+{"rubbish_id":"6054","rubbish_type":"3","rubbish_title":"灰土"},
+{"rubbish_id":"6055","rubbish_type":"3","rubbish_title":"炉渣"},
+{"rubbish_id":"6056","rubbish_type":"3","rubbish_title":"橡皮泥"},
+{"rubbish_id":"6057","rubbish_type":"3","rubbish_title":"太空沙"},
+{"rubbish_id":"6058","rubbish_type":"3","rubbish_title":"带胶制品"},
+{"rubbish_id":"6059","rubbish_type":"3","rubbish_title":"胶水"},
+{"rubbish_id":"6060","rubbish_type":"3","rubbish_title":"胶带"},
+{"rubbish_id":"6061","rubbish_type":"3","rubbish_title":"花盆"},
+{"rubbish_id":"6062","rubbish_type":"3","rubbish_title":"毛巾"},
+{"rubbish_id":"6063","rubbish_type":"3","rubbish_title":"一次性餐具"},
+{"rubbish_id":"6064","rubbish_type":"3","rubbish_title":"镜子"},
+{"rubbish_id":"6065","rubbish_type":"3","rubbish_title":"竹制品"},
+{"rubbish_id":"6066","rubbish_type":"3","rubbish_title":"竹篮"},
+{"rubbish_id":"6067","rubbish_type":"3","rubbish_title":"竹筷"},
+{"rubbish_id":"6068","rubbish_type":"3","rubbish_title":"伞"},
+{"rubbish_id":"6069","rubbish_type":"3","rubbish_title":"眼睛"},
+{"rubbish_id":"6070","rubbish_type":"3","rubbish_title":"打火机"},
+{"rubbish_id":"6071","rubbish_type":"3","rubbish_title":"笔"},
+{"rubbish_id":"6072","rubbish_type":"3","rubbish_title":"避孕套"},
+{"rubbish_id":"6073","rubbish_type":"3","rubbish_title":"用过的避孕套"},
+{"rubbish_id":"6074","rubbish_type":"3","rubbish_title":"蚊香"},
+{"rubbish_id":"6075","rubbish_type":"3","rubbish_title":"蚊香灰"},
+{"rubbish_id":"6076","rubbish_type":"3","rubbish_title":"电蚊香片"},
+{"rubbish_id":"6077","rubbish_type":"3","rubbish_title":"电蚊香"},
+{"rubbish_id":"6078","rubbish_type":"3","rubbish_title":"香烟"},
+{"rubbish_id":"6079","rubbish_type":"3","rubbish_title":"头发"},
+{"rubbish_id":"6080","rubbish_type":"3","rubbish_title":"烟灰"},
+{"rubbish_id":"6081","rubbish_type":"3","rubbish_title":"香烟烟灰"},
+{"rubbish_id":"6082","rubbish_type":"3","rubbish_title":"香烟灰烬"},
+{"rubbish_id":"6083","rubbish_type":"3","rubbish_title":"厕所纸"},
+{"rubbish_id":"6084","rubbish_type":"3","rubbish_title":"餐巾纸"},
+{"rubbish_id":"6085","rubbish_type":"3","rubbish_title":"包裹着狗屎的纸巾"},
+{"rubbish_id":"6086","rubbish_type":"3","rubbish_title":"包裹着狗屎的报纸"},
+{"rubbish_id":"6087","rubbish_type":"3","rubbish_title":"包裹着狗屎的塑料袋"},
+{"rubbish_id":"6088","rubbish_type":"3","rubbish_title":"包裹着狗屎的餐巾纸"},
+{"rubbish_id":"6089","rubbish_type":"3","rubbish_title":"回形针"},
+{"rubbish_id":"6090","rubbish_type":"3","rubbish_title":"U型回形针"},
+{"rubbish_id":"6091","rubbish_type":"3","rubbish_title":"安全套"},
+{"rubbish_id":"6092","rubbish_type":"3","rubbish_title":"安全套包装袋"},
+{"rubbish_id":"6093","rubbish_type":"3","rubbish_title":"冰棒棍"},
+{"rubbish_id":"6094","rubbish_type":"3","rubbish_title":"棒冰棍"},
+{"rubbish_id":"6095","rubbish_type":"3","rubbish_title":"棒棒糖杆"},
+{"rubbish_id":"6096","rubbish_type":"3","rubbish_title":"冰棒外包装"},
+{"rubbish_id":"6097","rubbish_type":"3","rubbish_title":"包蛋糕的塑料袋"},
+{"rubbish_id":"6098","rubbish_type":"3","rubbish_title":"鞭炮"},
+{"rubbish_id":"6099","rubbish_type":"3","rubbish_title":"便签"},
+{"rubbish_id":"6100","rubbish_type":"3","rubbish_title":"便签纸"},
+{"rubbish_id":"6101","rubbish_type":"3","rubbish_title":"保湿喷雾"},
+{"rubbish_id":"6102","rubbish_type":"3","rubbish_title":"补水喷雾"},
+{"rubbish_id":"6103","rubbish_type":"3","rubbish_title":"鼻涕纸"},
+{"rubbish_id":"6104","rubbish_type":"3","rubbish_title":"别针"},
+{"rubbish_id":"6105","rubbish_type":"3","rubbish_title":"便纸"},
+{"rubbish_id":"6106","rubbish_type":"3","rubbish_title":"茶包"},
+{"rubbish_id":"6107","rubbish_type":"3","rubbish_title":"唇彩"},
+{"rubbish_id":"6108","rubbish_type":"3","rubbish_title":"茶袋"},
+{"rubbish_id":"6109","rubbish_type":"3","rubbish_title":"唇膏"},
+{"rubbish_id":"6110","rubbish_type":"3","rubbish_title":"口红"},
+{"rubbish_id":"6111","rubbish_type":"3","rubbish_title":"成人用品"},
+{"rubbish_id":"6112","rubbish_type":"3","rubbish_title":"除湿袋"},
+{"rubbish_id":"6113","rubbish_type":"3","rubbish_title":"除湿包"},
+{"rubbish_id":"6114","rubbish_type":"3","rubbish_title":"宠物尿垫"},
+{"rubbish_id":"6115","rubbish_type":"3","rubbish_title":"唇釉"},
+{"rubbish_id":"6116","rubbish_type":"3","rubbish_title":"茶叶包"},
+{"rubbish_id":"6117","rubbish_type":"3","rubbish_title":"创口贴"},
+{"rubbish_id":"6118","rubbish_type":"3","rubbish_title":"创可贴"},
+{"rubbish_id":"6119","rubbish_type":"3","rubbish_title":"彩票"},
+{"rubbish_id":"6120","rubbish_type":"3","rubbish_title":"擦手巾"},
+{"rubbish_id":"6121","rubbish_type":"3","rubbish_title":"擦手纸"},
+{"rubbish_id":"6122","rubbish_type":"3","rubbish_title":"宠物毛发"},
+{"rubbish_id":"6123","rubbish_type":"3","rubbish_title":"臭袜子"},
+{"rubbish_id":"6124","rubbish_type":"3","rubbish_title":"草席"},
+{"rubbish_id":"6125","rubbish_type":"3","rubbish_title":"唇油"},
+{"rubbish_id":"6126","rubbish_type":"3","rubbish_title":"擦眼镜布"},
+{"rubbish_id":"6127","rubbish_type":"3","rubbish_title":"苍蝇贴"},
+{"rubbish_id":"6128","rubbish_type":"3","rubbish_title":"抽纸"},
+{"rubbish_id":"6129","rubbish_type":"3","rubbish_title":"外卖盒子"},
+{"rubbish_id":"6130","rubbish_type":"3","rubbish_title":"餐饮外卖盒"},
+{"rubbish_id":"6131","rubbish_type":"3","rubbish_title":"搓澡巾"},
+{"rubbish_id":"6132","rubbish_type":"3","rubbish_title":"打包盒"},
+{"rubbish_id":"6133","rubbish_type":"3","rubbish_title":"痘痘贴"},
+{"rubbish_id":"6134","rubbish_type":"3","rubbish_title":"电动牙刷头"},
+{"rubbish_id":"6135","rubbish_type":"3","rubbish_title":"逗猫棒"},
+{"rubbish_id":"6136","rubbish_type":"3","rubbish_title":"大头针"},
+{"rubbish_id":"6137","rubbish_type":"3","rubbish_title":"电蚊香液"},
+{"rubbish_id":"6138","rubbish_type":"3","rubbish_title":"电影票"},
+{"rubbish_id":"6139","rubbish_type":"3","rubbish_title":"耳塞"},
+{"rubbish_id":"6140","rubbish_type":"3","rubbish_title":"方便面相关物品"},
+{"rubbish_id":"6141","rubbish_type":"3","rubbish_title":"粉底刷"},
+{"rubbish_id":"6142","rubbish_type":"3","rubbish_title":"粉底"},
+{"rubbish_id":"6143","rubbish_type":"3","rubbish_title":"防腐剂"},
+{"rubbish_id":"6144","rubbish_type":"3","rubbish_title":"干燥剂"},
+{"rubbish_id":"6145","rubbish_type":"3","rubbish_title":"垃圾袋"},
+{"rubbish_id":"6146","rubbish_type":"3","rubbish_title":"湿垃圾袋"},
+{"rubbish_id":"6147","rubbish_type":"3","rubbish_title":"盛放果皮的垃圾袋"},
+{"rubbish_id":"6148","rubbish_type":"3","rubbish_title":"被污染的垃圾袋"}
+]
 }
 

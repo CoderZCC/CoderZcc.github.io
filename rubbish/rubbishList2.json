@@ -1,210 +1,47 @@
 {
-    "data": [{
-        "rubbish_id": "2001",
-        "rubbish_type": "2",
-        "rubbish_title": "药瓶"
-    },
-    {
-        "rubbish_id": "2002",
-        "rubbish_type": "2",
-        "rubbish_title": "充电电池"
-    },
-    {
-        "rubbish_id": "2003",
-        "rubbish_type": "2",
-        "rubbish_title": "荧光灯管"
-    },
-    {
-        "rubbish_id": "2004",
-        "rubbish_type": "2",
-        "rubbish_title": "手机电池"
-    },
-    {
-        "rubbish_id": "2005",
-        "rubbish_type": "2",
-        "rubbish_title": "节能灯"
-    },
-    {
-        "rubbish_id": "2006",
-        "rubbish_type": "2",
-        "rubbish_title": "水银温度计"
-    },
-    {
-        "rubbish_id": "2007",
-        "rubbish_type": "2",
-        "rubbish_title": "水银血压计"
-    },
-    {
-        "rubbish_id": "2008",
-        "rubbish_type": "2",
-        "rubbish_title": "过期药品"
-    },
-    {
-        "rubbish_id": "2009",
-        "rubbish_type": "2",
-        "rubbish_title": "油漆"
-    },
-    {
-        "rubbish_id": "2010",
-        "rubbish_type": "2",
-        "rubbish_title": "农药"
-    },
-    {
-        "rubbish_id": "2011",
-        "rubbish_type": "2",
-        "rubbish_title": "杀虫剂"
-    },
-    {
-        "rubbish_id": "2012",
-        "rubbish_type": "2",
-        "rubbish_title": "LED 灯（含水银）"
-    },
-    {
-        "rubbish_id": "2013",
-        "rubbish_type": "2",
-        "rubbish_title": "油漆桶"
-    },
-    {
-        "rubbish_id": "2014",
-        "rubbish_type": "2",
-        "rubbish_title": "镍镉电池"
-    },
-    {
-        "rubbish_id": "2015",
-        "rubbish_type": "2",
-        "rubbish_title": "酒精"
-    },
-    {
-        "rubbish_id": "2016",
-        "rubbish_type": "2",
-        "rubbish_title": "过期的胶囊药物"
-    },
-    {
-        "rubbish_id": "2017",
-        "rubbish_type": "2",
-        "rubbish_title": "过期药片"
-    },
-    {
-        "rubbish_id": "2018",
-        "rubbish_type": "2",
-        "rubbish_title": "蓄电池"
-    },
-    {
-        "rubbish_id": "2019",
-        "rubbish_type": "2",
-        "rubbish_title": "医用棉签"
-    },
-    {
-        "rubbish_id": "2020",
-        "rubbish_type": "2",
-        "rubbish_title": "医用手套"
-    },
-    {
-        "rubbish_id": "2021",
-        "rubbish_type": "2",
-        "rubbish_title": "农药瓶"
-    },
-    {
-        "rubbish_id": "2022",
-        "rubbish_type": "2",
-        "rubbish_title": "医用纱布"
-    },
-    {
-        "rubbish_id": "2023",
-        "rubbish_type": "2",
-        "rubbish_title": "口服液瓶"
-    },
-    {
-        "rubbish_id": "2024",
-        "rubbish_type": "2",
-        "rubbish_title": "灯泡"
-    },
-    {
-        "rubbish_id": "2025",
-        "rubbish_type": "2",
-        "rubbish_title": "油漆笔"
-    },
-    {
-        "rubbish_id": "2026",
-        "rubbish_type": "2",
-        "rubbish_title": "锂电池"
-    },
-    {
-        "rubbish_id": "2027",
-        "rubbish_type": "2",
-        "rubbish_title": "生石灰"
-    },
-    {
-        "rubbish_id": "2028",
-        "rubbish_type": "2",
-        "rubbish_title": "胶卷底片"
-    },
-    {
-        "rubbish_id": "2029",
-        "rubbish_type": "2",
-        "rubbish_title": "老鼠药"
-    },
-    {
-        "rubbish_id": "2030",
-        "rubbish_type": "2",
-        "rubbish_title": "杀虫喷雾罐"
-    },
-    {
-        "rubbish_id": "2031",
-        "rubbish_type": "2",
-        "rubbish_title": "过期的指甲油"
-    },
-    {
-        "rubbish_id": "2032",
-        "rubbish_type": "2",
-        "rubbish_title": "过期的洗甲水"
-    },
-    {
-        "rubbish_id": "2033",
-        "rubbish_type": "2",
-        "rubbish_title": "纽扣电池"
-    },
-    {
-        "rubbish_id": "2034",
-        "rubbish_type": "2",
-        "rubbish_title": "铅酸电池"
-    },
-    {
-        "rubbish_id": "2035",
-        "rubbish_type": "2",
-        "rubbish_title": "相片底片"
-    },
-    {
-        "rubbish_id": "2036",
-        "rubbish_type": "2",
-        "rubbish_title": "x光片等感光胶片"
-    },
-    {
-        "rubbish_id": "2037",
-        "rubbish_type": "2",
-        "rubbish_title": "前男友"
-    },
-    {
-        "rubbish_id": "2038",
-        "rubbish_type": "2",
-        "rubbish_title": "前女友"
-    },
-    {
-        "rubbish_id": "2039",
-        "rubbish_type": "2",
-        "rubbish_title": "傻*"
-    },
-    {
-        "rubbish_id": "2040",
-        "rubbish_type": "2",
-        "rubbish_title": "女朋友"
-    },
-    {
-        "rubbish_id": "2041",
-        "rubbish_type": "2",
-        "rubbish_title": "男朋友"
-    }
-    ]
+    "data": [
+{"rubbish_id":"2001","rubbish_type":"2","rubbish_title":"药瓶"},
+{"rubbish_id":"2002","rubbish_type":"2","rubbish_title":"充电电池"},
+{"rubbish_id":"2003","rubbish_type":"2","rubbish_title":"荧光灯管"},
+{"rubbish_id":"2004","rubbish_type":"2","rubbish_title":"手机电池"},
+{"rubbish_id":"2005","rubbish_type":"2","rubbish_title":"节能灯"},
+{"rubbish_id":"2006","rubbish_type":"2","rubbish_title":"水银温度计"},
+{"rubbish_id":"2007","rubbish_type":"2","rubbish_title":"水银血压计"},
+{"rubbish_id":"2008","rubbish_type":"2","rubbish_title":"过期药品"},
+{"rubbish_id":"2009","rubbish_type":"2","rubbish_title":"油漆"},
+{"rubbish_id":"2010","rubbish_type":"2","rubbish_title":"农药"},
+{"rubbish_id":"2011","rubbish_type":"2","rubbish_title":"杀虫剂"},
+{"rubbish_id":"2012","rubbish_type":"2","rubbish_title":"LED 灯（含水银）"},
+{"rubbish_id":"2013","rubbish_type":"2","rubbish_title":"油漆桶"},
+{"rubbish_id":"2014","rubbish_type":"2","rubbish_title":"镍镉电池"},
+{"rubbish_id":"2015","rubbish_type":"2","rubbish_title":"酒精"},
+{"rubbish_id":"2016","rubbish_type":"2","rubbish_title":"过期的胶囊药物"},
+{"rubbish_id":"2017","rubbish_type":"2","rubbish_title":"过期药片"},
+{"rubbish_id":"2018","rubbish_type":"2","rubbish_title":"蓄电池"},
+{"rubbish_id":"2019","rubbish_type":"2","rubbish_title":"医用棉签"},
+{"rubbish_id":"2020","rubbish_type":"2","rubbish_title":"医用手套"},
+{"rubbish_id":"2021","rubbish_type":"2","rubbish_title":"农药瓶"},
+{"rubbish_id":"2022","rubbish_type":"2","rubbish_title":"医用纱布"},
+{"rubbish_id":"2023","rubbish_type":"2","rubbish_title":"口服液瓶"},
+{"rubbish_id":"2024","rubbish_type":"2","rubbish_title":"灯泡"},
+{"rubbish_id":"2025","rubbish_type":"2","rubbish_title":"油漆笔"},
+{"rubbish_id":"2026","rubbish_type":"2","rubbish_title":"锂电池"},
+{"rubbish_id":"2027","rubbish_type":"2","rubbish_title":"生石灰"},
+{"rubbish_id":"2028","rubbish_type":"2","rubbish_title":"胶卷底片"},
+{"rubbish_id":"2029","rubbish_type":"2","rubbish_title":"老鼠药"},
+{"rubbish_id":"2030","rubbish_type":"2","rubbish_title":"杀虫喷雾罐"},
+{"rubbish_id":"2031","rubbish_type":"2","rubbish_title":"过期的指甲油"},
+{"rubbish_id":"2032","rubbish_type":"2","rubbish_title":"过期的洗甲水"},
+{"rubbish_id":"2033","rubbish_type":"2","rubbish_title":"纽扣电池"},
+{"rubbish_id":"2034","rubbish_type":"2","rubbish_title":"铅酸电池"},
+{"rubbish_id":"2035","rubbish_type":"2","rubbish_title":"相片底片"},
+{"rubbish_id":"2036","rubbish_type":"2","rubbish_title":"x光片等感光胶片"},
+{"rubbish_id":"2037","rubbish_type":"2","rubbish_title":"前男友"},
+{"rubbish_id":"2038","rubbish_type":"2","rubbish_title":"前女友"},
+{"rubbish_id":"2039","rubbish_type":"2","rubbish_title":"傻*"},
+{"rubbish_id":"2040","rubbish_type":"2","rubbish_title":"女朋友"},
+{"rubbish_id":"2041","rubbish_type":"2","rubbish_title":"男朋友"}
+]
     
 }
 
