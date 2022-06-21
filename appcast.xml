@@ -5,19 +5,23 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 1.4.14</title>
+            <title>Version 2.0</title>
             <sparkle:releaseNotesLink>
-                https://coderzcc.github.io/release-note.html
+                <![CDATA[
+                    <ul>
+                        <li>1. bbb</li>
+                        <li>2. aaa</li>
+                    </ul>
+                ]]>
             </sparkle:releaseNotesLink>
             <pubDate>Wed, 10 Apr 2019 19:58:11 +0000</pubDate>
             <enclosure
-                url="https://static.matrx.io/pkg/mac/matrx.1.3.1.175.dmg"
+                url="http://127.0.0.1:5000/static/MatrxDev.app.zip"
                 sparkle:shortVersionString="2.0"
                 sparkle:version="2019.05.04"
-                length="6605799"
+                length="4615565"
                 type="application/octet-stream"
-                sparkle:edSignature="MEYCIQCQaUqxcrhhEABlWxk+1At5QSwty+Li8d6Sr3q6jJF1JgIhAOWGpIkYLwXC
-                RFfaA8uz34Dy7CXCczpmSyCOQ5+rfOFL"
+                sparkle:edSignature="WbQraCARvrcVmOPGGndjo0kGrJpV0RrH9yG1YedKx1Mdt3luO1Fn8+jioiElRkOAE6jAWfrItQAa94gKDknqDg=="
             />
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
         </item>
